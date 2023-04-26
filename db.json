@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "productName": "product1",
+      "productImage": "https://i.pcmag.com/imagery/roundups/07ml3nh3QrzTLZ9UycfQQB2-49..v1668971764.jpg",
+      "productDescription": "vdfv fxc",
+      "productPrice": "50000",
+      "id": 10
+    },
+    {
+      "productName": "product1",
+      "productImage": "https://i.pcmag.com/imagery/roundups/07ml3nh3QrzTLZ9UycfQQB2-49..v1668971764.jpg",
+      "productDescription": "vdfv fxc",
+      "productPrice": "50000",
+      "id": 14
+    },
+    {
+      "productName": "product5",
+      "productImage": "https://www.smarttech.com/-/media/project/smart/www/education/products/interactive-displays/gx-v2-default-home-front.png?h=933&iar=0&w=1400&rev=b50b33b2964d4df18049f495f0c856fe&hash=862DC436148C1E8CB122CAF68C4BB6D7",
+      "productDescription": "testdescr",
+      "productPrice": "6000",
+      "id": 15
+    },
+    {
+      "productName": "testproduct",
+      "productImage": "https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "productDescription": "testing",
+      "productPrice": "500",
+      "id": 16
+    },
+    {
+      "productName": "product1",
+      "productImage": "https://i.pcmag.com/imagery/roundups/07ml3nh3QrzTLZ9UycfQQB2-49..v1668971764.jpg",
+      "productDescription": "vdfv fxc",
+      "productPrice": "50000",
+      "id": 17
+    }
+  ]
+}
